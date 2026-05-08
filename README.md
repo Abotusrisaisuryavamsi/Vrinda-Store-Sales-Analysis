@@ -24,4 +24,4 @@ This project involves a comprehensive end-to-end data analysis of **Vrinda Store
 ## 💡 Final Recommendation
 To maximize sales, target Women aged 30-49 years in Maharashtra and Karnataka through Amazon/Flipkart marketing campaigns.
 
-![Vrinda Store Dashboard](Screenshot 2026-05-08 131919.png)
+![Vrinda Store Dashboard](dashboard.png)
